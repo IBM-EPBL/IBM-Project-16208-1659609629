@@ -15,7 +15,7 @@ Team ID : PNT2022TMID32857
 
 Team Members : 🤗
 Manoj Deepak S
-Ajet Ganapathy A
+Ajet Ganapathy A (Mass)
 Mukesh Balaji N
 Rahul R
 Project Objectives:DETECTION
