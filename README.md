@@ -14,14 +14,15 @@ Batch Name : B11-5A1E
 Team ID : PNT2022TMID32857
 
 Team Members : 🤗
-Manoj Deepak S
-Ajet Ganapathy A 
-Mukesh Balaji N
-Rahul R
+Manoj Deepak S,
+Ajet Ganapathy A,
+Mukesh Balaji N,
+Rahul R.
 Project Objectives:DETECTION
+
 By the end of this project :
 
-We'll be able to understand the problem to classify if it is a regression or a classification kind of problem.
+    We'll be able to understand the problem to classify if it is a regression or a classification kind of problem.
 We will be able to know how to pre-process/clean the data using different data pre-processing techniques.
 Applying different algorithms according to the dataset
 We will be able to know how to find the accuracy of the model.
